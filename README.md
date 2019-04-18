@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Tic Tac Toe: This is a chess game. You can enter either enter X or O in this game. Each step is tracked with some texts appearing on the righthand side of game. This game can have three endings: win, lose or draw. Draw means no one wins or loses.
+**Tic Tac Toe**: This is a chess game. You can enter either enter X or O in this game. Each step is tracked with some texts appearing on the righthand side of game. This game can have three endings: win, lose or draw. Draw means no one wins or loses.
 
 ## Available Scripts
 
